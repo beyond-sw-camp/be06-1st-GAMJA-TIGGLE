@@ -35,7 +35,7 @@
 ---
 <br>
 
-## 👨‍💻 시스템 아키텍쳐 
+## 👨‍💻 프로젝트 목표
 
 ### Docker, k8s, Jenkins를 활용하여 기존에 만들었던 "Frontend" 와 "Backend" 프로젝트에
 
