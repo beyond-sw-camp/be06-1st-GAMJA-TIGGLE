@@ -45,7 +45,7 @@
 
 ## 💎 시스템 아키텍쳐 
 
-![시스템 아키텍쳐](https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/f64f5d2d-023b-4e45-a00c-1bfdbfefed15)
+![시스템 아키텍쳐](https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/121721219/d9a09f5e-e8d6-4fdf-abad-0513b9c72d14)
 
 
 <br>
