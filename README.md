@@ -37,9 +37,13 @@
 
 ## 🧙 프로젝트 목표
 
-### Docker, k8s, Jenkins를 활용하여 기존에 만들었던 "Frontend" 와 "Backend" 프로젝트에
+### 감자들아 힘내... 💞
 
-### CI/CD를 적용한다.
+<br>
+
+## 📮 프로젝트 기획안
+
+[프로젝트 기획안](https://docs.google.com/document/d/1DW2xby46I_4o6-kfmo1ElG_VLUaMxdFHGoBh323nAUI/edit)
 
 <br>
 
