@@ -56,10 +56,23 @@
 
 ![시스템 아키텍쳐](https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/121721219/d9a09f5e-e8d6-4fdf-abad-0513b9c72d14)
 
+
 <br>
 
-## 💎 프로젝트 시연
+## 🎃 DR (재난 복구) 
 
+### 🧐 클러스터링 방식을 이용한 이유
+
+#### ✅ 실시간 데이터 동기화를 보장 및 백업 과정 단순화 
+
+#### ✅ 티켓팅으로 급격히 증가하는 트래픽을 처리하기 위한 노드 추가가 쉬움
+#### ✅ 일부 노드의 장애 발생시에도, 서비스의 연속성 유지
+
+  <br>
+
+---
+
+## 👨‍💻 SQL 실행 결과 
 <details>
   <summary><b>USER</b></summary>
   <div markdown="1">
@@ -88,7 +101,7 @@
     <ul>
       <li><b>🎀CATEGORY</b></li>       
      <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/9092c8bc-a4dc-4814-9974-9dfda754b1e7" alt="">
-      <li><b>🧸RULE</b></li> 
+      <li><b>👻RULE</b></li> 
      <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/dd127365-d9db-4c1c-a75c-a3cf5807613f" alt="">
       <li><b>🌄GRADE</b></li>       
      <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/fa9c13c2-b721-4f6a-a350-358812cea28a" alt="">
@@ -101,31 +114,15 @@
     </ul>
   </div>
 </details>
+<br>
 
+## 💎 프로젝트 시연
 
 <br>
 
-## 🎃 DR (재난 복구) 
-
-### 🧐 클러스터링 방식을 이용한 이유
-
-#### ✅ 실시간 데이터 동기화를 보장 및 백업 과정 단순화 
-
-#### ✅ 티켓팅으로 급격히 증가하는 트래픽을 처리하기 위한 노드 추가가 쉬움
-#### ✅ 일부 노드의 장애 발생시에도, 서비스의 연속성 유지
-
-  <br>
-
----
-
-## 👨‍💻 SQL 실행 결과 
-
-<br>
-
-
-## 🤼‍♂️팀원
+## 🍟팀원
 
 Team Leader : 🐯**김동욱**
 
 Member : 🐶 **김은선** 🐺 **이재룡** 🐱 **지연희**
- 🦁 **차윤슬**
+ 🐰 **차윤슬**
