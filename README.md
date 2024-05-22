@@ -14,9 +14,9 @@
 <br>
 
 ## 🥔 팀원 소개
-|<img src="https://avatars.githubusercontent.com/u/96894900?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/81555158?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/117149045?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/121721219?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/152248322?v=4" width="150" height="150"/>|
+|<img src="https://avatars.githubusercontent.com/u/81555158?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/96894900?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/117149045?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/121721219?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/152248322?v=4" width="150" height="150"/>|
 |:-:|:-:|:-:|:-:|:-:|
-|yeon<br/>[@Aqulog](https://github.com/Aqulog)|김동욱<br/>[@postrel63](https://github.com/postrel63)|Yunseul<br/>[@yunseul-dev](https://github.com/yunseul-dev)|[@ashd89](https://github.com/ashd89)|kimeunsun<br/>[@kkkeess](https://github.com/kkkeess)|
+|👑김동욱<br/>[@postrel63](https://github.com/postrel63)|지연희<br/>[@Aqulog](https://github.com/Aqulog)|차윤슬<br/>[@yunseul-dev](https://github.com/yunseul-dev)|이재룡<br/>[@ashd89](https://github.com/ashd89)|김은선<br/>[@kkkeess](https://github.com/kkkeess)|
 
 <br>
 
