@@ -6,11 +6,18 @@
 
 ![tiggle_naeme](https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/121721219/e04decd7-350f-4d2a-8391-05fb40010de1)
 
-> **[플레이 데이터] 한화시스템 BEYOND SW캠프/ TIGGGLE (💥TEAM GAMMA💥)**
+**[플레이 데이터] 한화시스템 BEYOND SW캠프/ TIGGGLE (💥TEAM GAMMA💥)**
 </div>
 <br>
 
 <h1 align="center">🎫 티켓팅 및 교환 플랫폼 : TIGGLE 🎫</h1>
+<br>
+
+## 🥔 팀원 소개
+|<img src="https://avatars.githubusercontent.com/u/96894900?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/81555158?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/117149045?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/121721219?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/152248322?v=4" width="150" height="150"/>|
+|:-:|:-:|:-:|:-:|:-:|
+|yeon<br/>[@Aqulog](https://github.com/Aqulog)|김동욱<br/>[@postrel63](https://github.com/postrel63)|Yunseul<br/>[@yunseul-dev](https://github.com/yunseul-dev)|[@ashd89](https://github.com/ashd89)|kimeunsun<br/>[@kkkeess](https://github.com/kkkeess)|
+
 <br>
 
 ## ✨ 프로젝트 기본 소개
