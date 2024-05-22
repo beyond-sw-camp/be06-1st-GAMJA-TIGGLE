@@ -45,11 +45,55 @@
 
 ## 🎀 ERD 
 
-![Copy of TIGGLE 수정 (6)](https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/dc08c39e-2cc8-4e48-be20-c1542d369cbf)
+![TIGGLE_ERD](https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/6b96a536-123f-421b-9d64-f0686316b3dd)
 
 ## 💎 시스템 아키텍쳐 
 
 ![시스템 아키텍쳐](https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/121721219/d9a09f5e-e8d6-4fdf-abad-0513b9c72d14)
+
+## 💎 프로젝트 시연
+
+<details>
+  <summary><b>USER</b></summary>
+  <div markdown="1">
+   <br>
+    <ul>
+      <li><b>🧙USER</b></li>
+     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/09c3076e-2b65-4ecb-95a6-451e76ba0257" alt="">
+      <li><b>💰POINT</b></li>
+     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/0394dd79-4722-48f7-b18d-3cda3236d241" alt="">
+      <li><b>❤️LIKE</b></li>
+     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/acd9015b-68c6-4119-9aff-32d81a8c1595" alt="">
+      <li><b>🖥️CHATROOM</b></li>
+     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/23e4e72e-1c2d-4b4a-9cc9-44132ecb9886" alt="">
+      <li><b>✉️MESSAGE</b></li>
+     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/23e4e72e-1c2d-4b4a-9cc9-44132ecb9886" alt="">
+      <li><b>🧛ADMIN</b></li>
+     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/1b302e4d-dfba-4000-a587-006ac177c090" alt="">
+    </ul>
+  </div>
+</details>
+
+<details>
+  <summary><b>PROGRAM</b></summary>
+  <div markdown="1">
+   <br>
+    <ul>
+      <li><b>🎀CATEGORY</b></li>       
+     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/9092c8bc-a4dc-4814-9974-9dfda754b1e7" alt="">
+      <li><b>🧸RULE</b></li> 
+     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/dd127365-d9db-4c1c-a75c-a3cf5807613f" alt="">
+      <li><b>🌄GRADE</b></li>       
+     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/fa9c13c2-b721-4f6a-a350-358812cea28a" alt="">
+      <li><b>🎪PROGRAM</b></li>    
+     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/894bdb99-5a7b-4e9e-9b09-47299eaf2736" alt="">
+      <li><b>🌌LOCATION</b></li>          
+     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/b02b8c0c-abba-48e8-8526-99020c3cc3bb" alt="">
+      <li><b>⏰TIMES</b></li>     
+     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/a5e038dd-4209-4854-9bef-227a691570d7" alt="">
+    </ul>
+  </div>
+</details>
 
 
 <br>
