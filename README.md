@@ -43,6 +43,11 @@
 
 <br>
 
+## 📜 요구사항 정의서
+
+[요구사항 정의서](https://docs.google.com/spreadsheets/d/1KeAbB1bevkvhCJd1plKs4cA-APQgmuO404CI84nYjlM/edit#gid=1277905399)
+<br>
+
 ## 🎀 ERD 
 
 ![TIGGLE_ERD](https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/6b96a536-123f-421b-9d64-f0686316b3dd)
@@ -50,6 +55,8 @@
 ## 💎 시스템 아키텍쳐 
 
 ![시스템 아키텍쳐](https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/121721219/d9a09f5e-e8d6-4fdf-abad-0513b9c72d14)
+
+<br>
 
 ## 💎 프로젝트 시연
 
