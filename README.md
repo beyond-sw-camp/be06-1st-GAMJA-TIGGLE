@@ -85,22 +85,45 @@
 
 ## 👨‍💻 SQL 실행 결과 
 <details>
-  <summary><b>USER</b></summary>
+  <summary><b>INSERT & SELECT</b></summary>
   <div markdown="1">
    <br>
     <ul>
       <li><b>🧙USER</b></li>
-     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/09c3076e-2b65-4ecb-95a6-451e76ba0257" alt="">
+     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/34026f2c-694f-4209-b0a8-ad21071fd481" alt="">
       <li><b>💰POINT</b></li>
-     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/0394dd79-4722-48f7-b18d-3cda3236d241" alt="">
+     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/8ba7a25e-c13e-489d-8d7c-60587d167e8f" alt="">
       <li><b>❤️LIKE</b></li>
-     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/acd9015b-68c6-4119-9aff-32d81a8c1595" alt="">
+     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/96f4e1cb-7f2b-455e-b9a7-6d08e9066ff0" alt="">
       <li><b>🖥️CHATROOM</b></li>
-     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/23e4e72e-1c2d-4b4a-9cc9-44132ecb9886" alt="">
+     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/df6b6629-e048-4981-8b91-6fe833ff99cf" alt="">
       <li><b>✉️MESSAGE</b></li>
-     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/23e4e72e-1c2d-4b4a-9cc9-44132ecb9886" alt="">
+     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/01d7e5d0-4723-401e-9340-bd017b941d9b" alt="">
       <li><b>🧛ADMIN</b></li>
-     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/1b302e4d-dfba-4000-a587-006ac177c090" alt="">
+     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/c3202b7e-d825-4258-8179-bed52dda4019" alt="">
+      <li><b>🪐CATEGORY</b></li>
+     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/0a85b935-d382-4608-ac27-37db486671f1" alt="">
+      <li><b>💺SEAT</b></li>
+     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/16bb87af-2d97-4ffd-a157-b9ab9485aed9" alt="">
+      <li><b>🎨SECTION</b></li>
+     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/5074169c-a533-4a73-b1f9-b96cfbcd6992" alt="">
+      <li><b>⌚TIMES</b></li>
+     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/4e44f1f4-0145-4e03-81c4-4fd499c6e9a9" alt="">
+      <li><b>💱EXCHANGE</b></li>
+     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/15a40da6-4011-4097-bb77-7cd2a845d974" alt="">
+      <li><b>🖼️GRADE</b></li>
+     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/d290ac84-ceb8-43ef-9e4a-f7430521952a" alt="">
+      <li><b>🎠LOCATION</b></li>
+     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/c0f6248d-2cfa-4f79-adfe-5ab34ca0f6de" alt="">
+      <li><b>👩‍💻PROGRAM</b></li>
+     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/84acfa63-be7f-4088-b93b-5811ca15559a" alt="">
+      <li><b>📻RESERVATION</b></li>
+     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/c5df1d46-dfc2-4c27-88fa-a0e3b403e273" alt="">
+      <li><b>✍️REVIEW_PERFORMANCE</b></li>
+     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/590dcdad-a7d6-4026-bedc-68e0a3a879e3" alt="">
+      <li><b>👨‍🏫RULE</b></li>
+     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/924a7a74-1ea1-43a2-a84d-bb8fb9ecc423" alt="">
+     
     </ul>
   </div>
 </details>
