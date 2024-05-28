@@ -61,7 +61,8 @@
 
 ## 🎀 ERD 
 
-![TIGGLE_ERD](https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/6b96a536-123f-421b-9d64-f0686316b3dd)
+![new 티글](https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/4fc6d33f-4599-4f0e-a7e0-6b3fdaf622c7)
+
 
 ## 💎 시스템 아키텍쳐 
 
