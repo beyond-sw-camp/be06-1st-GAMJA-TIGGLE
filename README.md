@@ -1,16 +1,14 @@
-<p>
-<h1 align="center"> DB 설계 프로젝트 🖥️</h1>
-
+<br>
+<h1 align="center">🎫 티켓팅 및 티켓 교환 플랫폼 🎫</h1>
 
 <div align="center">
 
 ![tiggle_naeme](https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/121721219/e04decd7-350f-4d2a-8391-05fb40010de1)
 
-**[플레이 데이터] 한화시스템 BEYOND SW캠프/ TIGGGLE (💥TEAM GAMMA💥)**
-</div>
-<br>
+**[플레이 데이터] 한화시스템 BEYOND SW캠프 / 프로젝트 팀 GAMJA**
 
-<h1 align="center">🎫 티켓팅 및 교환 플랫폼 : TIGGLE 🎫</h1>
+</div>
+
 <br>
 
 ## 🥔 팀원 소개
@@ -20,13 +18,13 @@
 
 <br>
 
-## ✨ 프로젝트 기본 소개
+## ✨ 프로젝트 소개
 
-- 문화 생활을 즐기는 사람들이 늘어나 **"티켓 사이트에 대한 관심과 사용량이 증가"** 하고 있는만큼,   
-  **"티켓 거래를 하는 사람도 늘어났다"** 
+- 문화 생활을 즐기는 사람들이 늘어나 **티켓 사이트에 대한 관심과 사용량이 증가** 하고 있는만큼,   
+  **티켓 거래를 하는 사람도 늘어났다** 
 
-- 하지만 사용 간의 거래의 특성상 **"안전성이 보장되지 않아 불법 가격 인상 및 사기 피해"** 가 늘어나고 있다. 
-이에 **"Tiggle"** 은 개인간의 **"티켓 거래에 적절한 가격선과 안전성을 보장하는 울타리**"를 형성해 줌으로써 
+- 하지만 사용 간의 거래의 특성상 **안전성이 보장되지 않아 불법 가격 인상 및 사기 피해** 가 늘어나고 있다. 
+이에 **"Tiggle"** 은 개인간의 **티켓 거래에 적절한 가격선과 안전성을 보장하는 울타리**를 형성해 줌으로써 
  **<span style="color:blue">"티켓 거래 및 교환 플랫폼 서비스"</span>** 를 제공한다.
 
 <br>
@@ -37,14 +35,14 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white&color=ffa500"></a></a>
 &nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/></a>
 &nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springBoot&logoColor=white&color=green"/></a></a>
-<br>
 
----
 <br>
 
 ## 🧙 프로젝트 목표
 
-### 감자들아 힘내... 💞
+1. **안전한 티켓 거래**: 사용자들이 사기 및 노쇼 걱정 없이 안전하게 티켓을 거래할 수 있도록 중개해줍니다.
+2. **합리적인 가격**: 티켓 거래 시 합리적인 가격이 책정되도록 시스템을 형성하여 과도한 가격 인상을 방지합니다. 
+
 
 <br>
 
@@ -74,7 +72,7 @@
 ## 🎃 DR (재난 복구) 
 
 <details>
-  <summary><b>😛 클러스터링 방식을 이용한 이유</b></summary>
+  <summary><b>클러스터링 방식을 이용한 이유</b></summary>
   <div markdown="1">
    <br>
     <ul>
@@ -86,7 +84,7 @@
 <br>
 
 <details>
-  <summary><b>🧐 클러스터 환경에서 서버가 중단 되었을 때 문제 발생</b></summary>
+  <summary><b>클러스터 환경에서 서버가 중단 되었을 때 문제 발생</b></summary>
   <div markdown="1">
    <br>
     <ul>
@@ -98,7 +96,7 @@
 <br>
 
 <details>
-  <summary><b>😑 해결방안</b></summary>
+  <summary><b>해결방안</b></summary>
   <div markdown="1">
    <br>
     <ul>
@@ -109,7 +107,7 @@
 <br>
 
 <details>
-  <summary><b>😎 읽기&쓰기 작업 부하 분산 시</b></summary>
+  <summary><b>읽기&쓰기 작업 부하 분산 시</b></summary>
   <div markdown="1">
    <br>
     <ul>
@@ -120,7 +118,7 @@
 <br>
 
 <details>
-  <summary><b>💥 결론</b></summary>
+  <summary><b>결론</b></summary>
   <div markdown="1">
    <br>
     <ul>
@@ -129,86 +127,265 @@
      
   </div>
 </details>
+
 <br>
 
-  <br>
-
----
 
 ## 👨‍💻 SQL 실행 결과 
-<details>
-  <summary><b>INSERT & SELECT</b></summary>
-  <div markdown="1">
-   <br>
-    <ul>
-      <li><b>🧙USER</b></li>
-     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/34026f2c-694f-4209-b0a8-ad21071fd481" alt="">
-      <li><b>💰POINT</b></li>
-     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/8ba7a25e-c13e-489d-8d7c-60587d167e8f" alt="">
-      <li><b>❤️LIKE</b></li>
-     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/96f4e1cb-7f2b-455e-b9a7-6d08e9066ff0" alt="">
-      <li><b>🖥️CHATROOM</b></li>
-     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/df6b6629-e048-4981-8b91-6fe833ff99cf" alt="">
-      <li><b>✉️MESSAGE</b></li>
-     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/01d7e5d0-4723-401e-9340-bd017b941d9b" alt="">
-      <li><b>🧛ADMIN</b></li>
-     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/c3202b7e-d825-4258-8179-bed52dda4019" alt="">
-      <li><b>🪐CATEGORY</b></li>
-     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/0a85b935-d382-4608-ac27-37db486671f1" alt="">
-      <li><b>💺SEAT</b></li>
-     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/16bb87af-2d97-4ffd-a157-b9ab9485aed9" alt="">
-      <li><b>🎨SECTION</b></li>
-     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/5074169c-a533-4a73-b1f9-b96cfbcd6992" alt="">
-      <li><b>⌚TIMES</b></li>
-     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/4e44f1f4-0145-4e03-81c4-4fd499c6e9a9" alt="">
-      <li><b>💱EXCHANGE</b></li>
-     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/15a40da6-4011-4097-bb77-7cd2a845d974" alt="">
-      <li><b>🖼️GRADE</b></li>
-     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/d290ac84-ceb8-43ef-9e4a-f7430521952a" alt="">
-      <li><b>🎠LOCATION</b></li>
-     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/c0f6248d-2cfa-4f79-adfe-5ab34ca0f6de" alt="">
-      <li><b>👩‍💻PROGRAM</b></li>
-     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/84acfa63-be7f-4088-b93b-5811ca15559a" alt="">
-      <li><b>📻RESERVATION</b></li>
-     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/c5df1d46-dfc2-4c27-88fa-a0e3b403e273" alt="">
-      <li><b>✍️REVIEW_PERFORMANCE</b></li>
-     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/590dcdad-a7d6-4026-bedc-68e0a3a879e3" alt="">
-      <li><b>👨‍🏫RULE</b></li>
-     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/924a7a74-1ea1-43a2-a84d-bb8fb9ecc423" alt="">
-     
-    </ul>
-  </div>
-</details>
+
+### 회원
 
 <details>
-  <summary><b>PROGRAM</b></summary>
+  <summary><b>회원가입</b></summary>
   <div markdown="1">
-   <br>
-    <ul>
-      <li><b>🎀CATEGORY</b></li>       
-     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/9092c8bc-a4dc-4814-9974-9dfda754b1e7" alt="">
-      <li><b>👻RULE</b></li> 
-     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/dd127365-d9db-4c1c-a75c-a3cf5807613f" alt="">
-      <li><b>🌄GRADE</b></li>       
-     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/fa9c13c2-b721-4f6a-a350-358812cea28a" alt="">
-      <li><b>🎪PROGRAM</b></li>    
-     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/894bdb99-5a7b-4e9e-9b09-47299eaf2736" alt="">
-      <li><b>🌌LOCATION</b></li>          
-     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/b02b8c0c-abba-48e8-8526-99020c3cc3bb" alt="">
-      <li><b>⏰TIMES</b></li>     
-     <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/96894900/a5e038dd-4209-4854-9bef-227a691570d7" alt="">
-    </ul>
+  <br>
+
+  ```sql
+  
+  ```
+  <img src="" alt="">
   </div>
 </details>
 <br>
+
+
+<details>
+  <summary><b>로그인</b></summary>
+  <div markdown="1">
+<br>
+
+  ``` sql
+  SELECT user.status
+  FROM tiggle1000.user
+  WHERE id = [유저가 입력한 id] AND password = [유저가 입력한 password];  
+  # 'test' , 'qwer1234'
+  ```
+  <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/81555158/506d69cd-e533-4b42-b116-dfb172f42331" alt="">
+  </div>
+</details>
+<br>
+
+<details>
+  <summary><b>회원 정보 조회</b></summary>
+  <div markdown="1">
+<br>
+개인 회원의 계정 정보를 조회합니다.
+
+  ``` sql
+  select name, email, id, password, point, address_name
+  from user
+  WHERE userId = [조회할 유저 idx]; # 1;  
+  ```
+  <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/81555158/0cb3646f-8b6e-4515-b09c-eb6bb20bea39" alt="">
+  </div>
+</details>
+<br>
+
+<details>
+  <summary><b>내 티켓 조회</b></summary>
+  <div markdown="1">
+<br>
+나의 티켓 예약 기록을 조회합니다.
+
+  ``` sql
+select exchange.exchangeId, exchange.reservationId1, exchange.isSuccesed, exchange.createdAt, exchange.progressState
+,reservation.reservationId, reservation.seatId, reservation.programId, reservation.ticketNumber, reservation.totalPrice, reservation.timesId,reservation.userId
+from exchange
+join reservation on exchange.reservationId1 = reservation.reservationId
+join user on reservation.userId = user.userId
+where reservation.userId = [조회할 유저 idx]; # 1
+union
+select exchange.exchangeId, exchange.reservationId1, exchange.isSuccesed, exchange.createdAt, exchange.progressState
+,reservation.reservationId, reservation.seatId, reservation.programId, reservation.ticketNumber, reservation.totalPrice, reservation.timesId,reservation.userId
+from exchange
+join reservation on exchange.reservationId2 = reservation.reservationId
+join user on reservation.userId = user.userId
+where reservation.userId = [조회할 유저 idx]; # 1  
+  ```
+  <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/81555158/55d09883-a7f5-4858-a907-db4b42973aaa" alt="">
+  </div>
+</details>
+<br>
+
+
+<details>
+  <summary><b>내가 작성한 리뷰 조회</b></summary>
+  <div markdown="1">
+<br>
+나의 티켓 예약 기록을 조회합니다.
+
+  ``` sql
+SELECT review_program.reviewId, review_program.reservationId, review_program.content, review_program.createdAt, review_program.star
+FROM review_program
+JOIN reservation on review_program.reservationId = reservation.reservationId
+join user on user.userId = reservation.userId
+WHERE user.userId = [조회할 유저 idx]; #'1'
+  ```
+  <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/81555158/a9794f0e-89c3-4f86-b5d0-9db72c98f9eb" alt="">
+  </div>
+</details>
+<br>
+
+<details>
+  <summary><b>내 포인트 조회</b></summary>
+  <div markdown="1">
+<br>
+나의 포인트 정보와 사용 이력을 조회합니다.
+
+  ``` sql
+  select user.userId, user.name, point.pointId, point.value, point.getOrLose, point.createdAt
+  from user
+  join point on user.userId = point.userId
+  where user.userId = [조회할 유저 idx]; # 1
+  ```
+  <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/81555158/eb39b142-dec0-49b0-9e81-da50d2b89a0c" alt="">
+  </div>
+</details>
+<br>
+
+
+### 티켓팅
+
+<details>
+  <summary><b>공연 등록</b></summary>
+  <div markdown="1">
+<br>
+관리자가 요청받은 공연 정보를 등록합니다.
+
+  ``` sql
+
+  ```
+  <img src="" alt="">
+  </div>
+</details>
+<br>
+
+<details>
+  <summary><b>공연 목록 조회(카테고리 기준) </b></summary>
+  <div markdown="1">
+<br>
+카테고리별로 공연을 조회합니다.
+
+  ``` sql
+SELECT program.programId, program.categoryId, program.programName, location.name, 
+       program.reservationOpenDate, program.reservationCloseDate
+FROM program
+JOIN category ON program.categoryId = category.categoryId
+JOIN location ON program.locationId = location.locationId
+WHERE category.categoryId = [조회할 카테고리의 idx]; # 1
+  ```
+  <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/81555158/a9794f0e-89c3-4f86-b5d0-9db72c98f9eb" alt="">
+  </div>
+</details>
+<br>
+
+<details>
+  <summary><b>공연 상세페이지 조회</b></summary>
+  <div markdown="1">
+<br>
+공연 제목, 이름, 시간, 러닝타임, 공연장 정보, 좌석 정보 등 공연에 관련된 상세 정보를 조회합니다.
+
+  ``` sql
+SELECT program.programId, program.programName, program.programStartDate, program.programEndDate, program.runtime, program.age, program_grade.price, grade.gradeName, program.programStartDate, program.programEndDate, times.round, times.limitEnterTime, times.date
+FROM program
+JOIN program_grade ON program_grade.programId = program.programId
+JOIN grade ON grade.gradeId = program_grade.gradeId
+JOIN times ON times.programId = program.programId
+LEFT JOIN reservation ON reservation.programId = program.programId
+LEFT JOIN exchange ON reservation.reservationId = exchange.reservationId1
+WHERE program.programId = [조회할 공연 idx];  # 1 
+  ```
+  <img src="" alt="">
+  </div>
+</details>
+<br>
+
+<details>
+  <summary><b>공연 잔여좌석 조회</b></summary>
+  <div markdown="1">
+<br>
+공연 상세페이지에서 관람하고자 하는 공연의 잔여좌석을 조회합니다.
+
+  ``` sql
+select seat.seatNumber, seat.section, times.date, times.round, program.programName, reservation.state from seat
+left join reservation on reservation.seatId = seat.seatId 
+left join program on program.programId = reservation.programId
+left join times on reservation.timesId = times.timesId 
+where times.round = 1 AND program.programName = "Mrs";
+  ```
+  <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/81555158/ad5fff14-2636-471b-b821-5f5607661a61" alt="">
+  </div>
+</details>
+<br>
+
+
+<details>
+  <summary><b>티켓 예약하기</b></summary>
+  <div markdown="1">
+<br>
+조회된 공연 정보를 통해 티켓을 예약합니다.
+
+  ``` sql
+
+  ```
+  <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/81555158/c221e582-18de-46bc-a542-b6b0efc9a8b8" alt="">
+  </div>
+</details>
+<br>
+
+<details>
+  <summary><b>교환 가능한 좌석 조회</b></summary>
+  <div markdown="1">
+<br>
+예약된 좌석을 조회하고 교환 가능 상태를 확인하여 교환 가능한 좌석인지 조회합니다. 
+
+  ``` sql
+select * from
+(select reservation.reservationId, reservation.userId, reservation.seatId, 
+reservation.programId, reservation.state, reservation.requestLimit, reservation.timesId
+from reservation
+join seat
+on reservation.seatId = seat.seatId
+where reservation.programId = 1 and reservation.timesId = 1) as subquery
+where subquery.state = 1;
+  ```
+  <img src="" alt="">
+  </div>
+</details>
+<br>
+
+<details>
+  <summary><b>교환하기</b></summary>
+  <div markdown="1">
+<br>
+상호간 교환 협의가 된 이용자간 교환이 이뤄질 수 있습니다. 
+
+  ``` sql
+
+  ```
+  <img src="" alt="">
+  </div>
+</details>
+<br>
+
+<details>
+  <summary><b>공연 리뷰 조회</b></summary>
+  <div markdown="1">
+<br>
+공연 리뷰를 조회합니다.
+
+  ``` sql
+SELECT user.id, review_program.content, review_program.createdAt, review_program.star
+FROM review_program
+JOIN reservation on review_program.reservationId = reservation.reservationId
+join user on user.userId = reservation.userId
+WHERE programId = [조회할 공연의 idx];  # 1
+  ```
+  <img src="https://github.com/beyond-sw-camp/be06-1st-GAMJA-TIGGLE/assets/81555158/cfa58425-61ac-46df-bdda-dd06bc006171" alt="">
+  </div>
+</details>
+<br>
+
 
 ## 💎 프로젝트 시연
 
-<br>
-
-## 🍟팀원
-
-Team Leader : 🐯**김동욱**
-
-Member : 🐶 **김은선** 🐺 **이재룡** 🐱 **지연희**
- 🐰 **차윤슬**
